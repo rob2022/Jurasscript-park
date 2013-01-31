@@ -9,7 +9,7 @@
 "It's a UNIX system. I know this."
 ```
 
-Combine you love of dinosaurs with you love of Unix based operating systems. This inspirational dinosaurs "art work" and quote from the 90's classic Jurassic Park.
+Combine your love of dinosaurs and Unix based operating systems with this inspirational dinosaurs "art work" and quote from the 90's classic Jurassic Park.
 
 http://www.youtube.com/watch?v=dFUlAQZB9Ng
 
