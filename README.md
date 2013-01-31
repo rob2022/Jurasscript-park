@@ -1,4 +1,5 @@
-#Jurassic park inspired shell script.
+#Jurassic Park Inspired Shell Script.
+Inspirational dinosaurs "art work" and quote from the 90's classic Jurassic Park.
 ```
                     __
                    / _)
@@ -8,8 +9,7 @@
         
 "It's a UNIX system. I know this."
 ```
-
-Combine your love of dinosaurs and Unix based operating systems with this inspirational dinosaurs "art work" and quote from the 90's classic Jurassic Park.
+Combine your love of dinosaurs with your love of Unix based operating systems  by simply typing dino into you'r terminal.
 
 http://www.youtube.com/watch?v=dFUlAQZB9Ng
 
