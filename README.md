@@ -7,9 +7,9 @@ Inspirational dinosaurs "art work" and quote from the 90's classic Jurassic Park
          __/       /
         <__.|_|-|_|
         
-"It's a UNIX system. I know this."
+It's a UNIX system. I know this.
 ```
-Combine your love of dinosaurs with your love of Unix based operating systems  by simply typing dino into you'r terminal.
+Combine your love of dinosaurs with your love of Unix based operating systems  by simply typing dino into you'r terminal. Now in full.
 
 http://www.youtube.com/watch?v=dFUlAQZB9Ng
 
