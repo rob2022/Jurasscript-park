@@ -1,0 +1,9 @@
+#! /bin/bash
+clear
+echo -e "\033[0;32m                    __
+                   / _)
+            .-^^^-/ /
+         __/       /
+        <__.|_|-|_|
+
+\e[00;31mIt's a UNIX system. I know this.\e[00m\n";
