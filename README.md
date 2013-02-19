@@ -13,6 +13,8 @@ Combine your love of dinosaurs with your love of Unix based operating systems  b
 
 http://www.youtube.com/watch?v=dFUlAQZB9Ng
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dFUlAQZB9Ng" frameborder="0" allowfullscreen></iframe>
+
 ##Installation
 ###Linux
 Place the script into ~/bin or /usr/sbin
